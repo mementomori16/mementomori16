@@ -5,7 +5,7 @@
   
   <br>
   
-<a href="https://mementomori16.github.io/resume/index.html" target="_blank">
+<a href="https://mementomori16.github.io/Resume/" target="_blank">
   <h1>[ 🚀 VIEW MY PROFESSIONAL HTML RESUME HERE 🚀 ]</h1>
 </a>
   
