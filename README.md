@@ -5,7 +5,7 @@
   
   <br>
   
-[🚀 VIEW MY PROFESSIONAL HTML RESUME HERE 🚀](https://mementomori16.github.io/resume/)
+[🚀 VIEW MY PROFESSIONAL HTML RESUME HERE 🚀](https://mementomori16.github.io/Resume/)
 </a>
   
   <br>
