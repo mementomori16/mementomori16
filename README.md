@@ -1,61 +1,63 @@
 # Full Stack Developer
 
-### Basel, Switzerland | Modern Web Architecture Specialist
+### Basel, Switzerland | Full Stack and Modern Web Specialist
 
-A dedicated **Full Stack Developer** specializing in the development of robust, scalable, and user-centric web applications. This profile reflects a comprehensive skill set across the entire technology stack, with deep expertise in modern frameworks and a proven commitment to **technical excellence**, clean code, and effective problem-solving.
+A results-driven **Full Stack Developer** with significant experience building robust, scalable, and user-centric web applications. Proficient across the entire modern web architecture, from crafting performant front-ends with **React** and **Vue.js** to engineering reliable back-end systems with **Node.js** and **Express.js**.
 
-My focus is on delivering business value through high-performance software solutions and maintaining secure, well-architected systems.
+My approach emphasizes blending deep technical skills with a business-minded focus on intuitive user experiences and product-driven development.
 
 ---
 
-## 🛠️ Core Technologies and Skills
+## 🛠️ Core Technical Expertise
 
-Proficiency spans popular and modern development tools, emphasizing the **NERN stack** (Next.js/Nuxt.js, Express.js, React/Vue.js, Node.js).
+A precise breakdown of key technologies and tools:
 
 ### Frontend and UI/UX
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Frameworks** | **React**, **Vue.js 3**, **Next.js**, **Nuxt.js** |
-| **Languages** | **TypeScript**, **JavaScript**, **HTML5** |
-| **Styling** | **Tailwind CSS**, **SASS/SCSS**, **CSS3**, Bootstrap, Material UI |
+| **Frameworks** | **React**, **Vue.js** (including Vue 3), **Next.js** |
+| **Languages & Markup** | **TypeScript**, **JavaScript**, **HTML5** |
+| **Styling** | **Tailwind CSS**, **SASS/SCSS**, **CSS3**, Bootstrap, Ant Design |
+| **Design Tools** | **Figma**, Adobe XD, Sketch, Canva, Corel Painter |
 
-### Backend, Databases, and APIs
+### Backend, Databases, and Infrastructure
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Server** | **Node.js**, **Express.js**, **Python**, **Flask** |
-| **Data** | **PostgreSQL**, **Firebase**, **MongoDB**, Oracle |
+| **Server** | **Node.js**, **Express.js**, **PHP**, Go |
+| **Data** | **PostgreSQL**, **Firebase**, **MongoDB**, Redis, Elastic |
 | **APIs** | **REST APIs**, **GraphQL** |
 
-### DevOps, Testing, and Tools
+### Quality Assurance and DevOps
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Testing** | **Cypress** (E2E), Jest, RTL (React Testing Library) |
-| **CI/CD** | **GitHub Actions**, Docker, Heroku |
-| **Tools** | **Git**, VS Code, Webpack, SEO tools, Google Analytics |
+| **E2E Testing** | **Cypress** |
+| **CI/CD** | **GitHub Actions**, Jenkins, GitLab CI |
+| **Tools/Platforms** | **Git**, **Docker**, Jira, Confluence |
 | **AI/ML** | Google Gemini (Google AI), OpenAI API |
 
 ---
 
-## 🚀 Professional Profile
+## 🚀 Professional Profile Highlights
 
-* **End-to-End Development:** Architect, develop, and deploy complex applications utilizing modern full-stack methodologies.
-* **Architecture:** Focused on scaling solutions by implementing best practices in state management, component isolation, and code maintainability.
-* **Testing & Quality:** Established and maintained **End-to-End (E2E) testing** with **Cypress** to ensure high application reliability and reduce regression risks.
-* **CI/CD Implementation:** Developed and managed automated deployment pipelines using **GitHub Actions**, leading to streamlined release management.
+* **Full Stack Proficiency:** Delivered end-to-end solutions, specializing in the **NERN stack** (Node.js/Express.js, React/Next.js).
+* **Code Quality:** Mandated the use of **TypeScript** to enhance code reliability, developer experience, and maintainability across large codebases.
+* **Testing Focus:** Established and maintained **End-to-End (E2E) testing** using **Cypress** to ensure application stability and reliability.
+* **Workflow Automation:** Designed and implemented **CI/CD pipelines** using **GitHub Actions** for seamless, automated deployment.
+* **AI Integration:** Experienced in integrating modern AI APIs (**Google Gemini, OpenAI**) to enhance application functionality and user interaction.
 
 ---
 
-## 🔗 Connect
+## 🔗 Online CV and Portfolio
 
-[**LinkedIn**](https://www.linkedin.com/in/ilya-medvedyev) &nbsp; • &nbsp; [**Portfolio/Website**](http://ilya.mevedyev.ch)
+[**View Full CV and Portfolio**](https://hieroglyphcode.ch/cv)
 
 ***
 
 ### ⚙️ Technology Icons
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,ts,js,html,css,tailwind,sass,postgres,mongodb,firebase,git,github,docker,cypress,python,flask,ai" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,express,ts,js,html,css,tailwind,sass,postgres,mongodb,firebase,git,github,docker,cypress,php,go,ai" />
 </p>
