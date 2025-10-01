@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-### Basel, Switzerland | Full Stack and Modern Web Specialist
+### Basel, Switzerland | Full Stack Developer
 
 A results-driven **Full Stack Developer** with significant experience building robust, scalable, and user-centric web applications. Proficient across the entire modern web architecture, from crafting performant front-ends with **React** and **Vue.js** to engineering reliable back-end systems with **Node.js** and **Express.js**.
 
