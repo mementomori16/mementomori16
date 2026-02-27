@@ -1,4 +1,4 @@
-# Full Stack Developer
+# Software Architect & Engineer | Full Stack PWA Specialist | Bridging Technical Architecture with Creative Design
 
 ### Basel, Switzerland | Full Stack Developer
 
